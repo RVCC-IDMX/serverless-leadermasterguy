@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/RVCC-IDMX/serverless-leadermasterguy#readme",
   "dependencies": {
+    "chalk": "^4.1.2",
+    "luxon": "^3.1.0",
     "node-fetch": "^3.3.0"
   },
   "devDependencies": {
